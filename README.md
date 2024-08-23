@@ -1,1 +1,1 @@
-# Project_imgprocessing
+# Ứng dụng đọc QRCode nhận diện hình ảnh
